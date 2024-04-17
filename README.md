@@ -1,4 +1,4 @@
-📈** Multiple-Year Stock Analysis Project **
+📈Multiple-Year Stock Analysis Project
 
 📊 Author: Jasleen Jasleen
     Date: January 15, 2024
