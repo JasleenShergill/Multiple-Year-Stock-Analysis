@@ -1,10 +1,12 @@
-**📈** Multiple-Year Stock Analysis Project ****
+📈** Multiple-Year Stock Analysis Project **
 
 📊 Author: Jasleen Jasleen
-   Date: January 15, 2024
+    Date: January 15, 2024
 
 **Overview**
-Welcome to the thrilling world of stock analysis! 🚀 In this electrifying project, I embarked on a data adventure using the power of macros and VBA scripts to decode thousands of rows across multiple worksheets. The raw data, generously provided by the University of Toronto, served as the backbone for this exhilarating journey into the heart of financial analysis.
+Welcome to the thrilling world of stock analysis! 🚀 
+
+In this electrifying project, I embarked on a data adventure using the power of macros and VBA scripts to decode thousands of rows across multiple worksheets. The raw data, generously provided by the University of Toronto, served as the backbone for this exhilarating journey into the heart of financial analysis.
 
 **Project Requirements**
 To conquer this challenge, I set out to fulfill the following epic quests:
